@@ -109,7 +109,7 @@ li a:hover {
 .rozwijak {
   list-style-type: none;
   text-decoration: none;
-  width: 144px;
+  width: 104px;
 }
 .rozwijak ul {
   display: none;
@@ -118,7 +118,7 @@ li a:hover {
 .rozwijak:hover ul {
   display: flex;
   flex-wrap: wrap;
-  max-width: 450px;
+  max-width: 650px;
   position: absolute;
 }
 ol {
